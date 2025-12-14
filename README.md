@@ -8,6 +8,8 @@
 
 > "Philosophy is code. Stop writing it in Notepad. Start engineering it."
 
+![Lp Forge Interface](interface-preview.png)
+
 ## 🌟 What is this?
 
 **Philosophy Builder** (internally "Lp Forge") is a lightweight, single-file editor designed to visualize, organize, and refactor ethical frameworks.
