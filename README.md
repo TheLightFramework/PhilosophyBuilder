@@ -8,7 +8,7 @@
 
 > "Philosophy is code. Stop writing it in Notepad. Start engineering it."
 
-![Lp Forge Interface](interface-preview.png)
+![Lp Forge Interface](PhilosophyBuilder.png)
 
 ## 🌟 What is this?
 
