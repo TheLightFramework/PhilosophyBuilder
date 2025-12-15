@@ -24,7 +24,7 @@ It is built specifically for the **T/M/P Protocol** used in [Light Philosophy (L
 *   **100% Client-Side:** A single `.htm` file. No servers, no tracking, no installation.
 *   **Visual Kanban:** View your philosophy in three distinct columns (Truth, Maybe, Practice).
 *   **Markdown Native:** Imports and Exports standard Markdown (`.md`) files.
-*   **Refactoring Tools:** Sort by confidence, categorize into sections, and re-number axioms automatically on export.
+*   **Refactoring Tools:** Sort by confidence, and re-number T/M/P lines with a button. Reset cleans without destroying your file.
 *   **Privacy First:** All data lives in your browser's `localStorage` or your local files.
 
 ## 🚀 Quick Start
