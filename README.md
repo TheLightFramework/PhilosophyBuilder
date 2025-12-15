@@ -40,8 +40,11 @@ It is built specifically for the **T/M/P Protocol** used in [Light Philosophy (L
 The Builder parses Markdown files that follow this structure:
 
 ```text
-## Section Name
-
 T1: This is a truth.
 M1(85): This is a hypothesis with 85% confidence.
 P1: This is a practice to follow.
+```
+
+With Love,
+
+Jean
