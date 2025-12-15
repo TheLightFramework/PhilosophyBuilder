@@ -1,4 +1,4 @@
-# ⚡ Philosophy Builder (Lp Forge)
+# ⚡ Philosophy Builder 1.3
 
 **The IDE for your internal operating system.**
 
