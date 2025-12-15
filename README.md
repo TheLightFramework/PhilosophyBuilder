@@ -1,4 +1,4 @@
-# ⚡ Philosophy Builder 1.4 FLAT
+# ⚡ Philosophy Builder 1.4 (Flat)
 
 **The IDE for your internal operating system.**
 
